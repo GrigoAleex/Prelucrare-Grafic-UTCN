@@ -1,0 +1,140 @@
+[
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/glm\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -o CMakeFiles/main.dir/src/main.cpp.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/src/main.cpp\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/glm/glm",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/glm\" -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -Wno-c++98-compat -Wno-c++98-compat-pedantic -o CMakeFiles/glm.dir/detail/glm.cpp.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/glm/glm/detail/glm.cpp\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/glm/glm/detail/glm.cpp",
+  "output": "libs/glm/glm/CMakeFiles/glm.dir/detail/glm.cpp.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/context.c.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/context.c\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/context.c",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/context.c.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/init.c.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/init.c\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/init.c",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/init.c.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/input.c.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/input.c\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/input.c",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/input.c.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/monitor.c.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/monitor.c\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/monitor.c",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/monitor.c.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/platform.c.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/platform.c\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/platform.c",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/platform.c.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/vulkan.c.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/vulkan.c\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/vulkan.c",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/vulkan.c.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/window.c.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/window.c\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/window.c",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/window.c.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/egl_context.c.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/egl_context.c\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/egl_context.c",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/egl_context.c.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/osmesa_context.c.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/osmesa_context.c\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/osmesa_context.c",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/null_init.c.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/null_init.c\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/null_init.c",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/null_init.c.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/null_monitor.c.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/null_monitor.c\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/null_monitor.c",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/null_monitor.c.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/null_window.c.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/null_window.c\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/null_window.c",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/null_window.c.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/null_joystick.c.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/null_joystick.c\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/null_joystick.c",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/null_joystick.c.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_time.c.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/cocoa_time.c\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/cocoa_time.c",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/cocoa_time.c.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_module.c.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/posix_module.c\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/posix_module.c",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/posix_module.c.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/posix_thread.c.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/posix_thread.c\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/posix_thread.c",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_init.m.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/cocoa_init.m\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/cocoa_init.m",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/cocoa_init.m.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_joystick.m.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/cocoa_joystick.m\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/cocoa_joystick.m",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_monitor.m.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/cocoa_monitor.m\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/cocoa_monitor.m",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/cocoa_window.m.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/cocoa_window.m\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/cocoa_window.m",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/cocoa_window.m.o"
+},
+{
+  "directory": "/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -D_GLFW_COCOA -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/include\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src\" -I\"/Users/grig/Documents/1. Projects/college/pg/lab3/build/libs/GLFW/src\" -std=c99 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.5 -fPIC -Wall -o CMakeFiles/glfw.dir/nsgl_context.m.o -c \"/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/nsgl_context.m\"",
+  "file": "/Users/grig/Documents/1. Projects/college/pg/lab3/libs/GLFW/src/nsgl_context.m",
+  "output": "libs/GLFW/src/CMakeFiles/glfw.dir/nsgl_context.m.o"
+}
+]
